@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ---
-![HeaderImage](https://i.imgur.com/zNrjkhj.jpg)
+![HeaderImage](https://raz.media-server.repl.co/banner.jpg)
 <br>
 
 [![Raz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRH-Raz&theme=tokyonight&show_icons=true)](https://github.com/TRH-Raz/github-readme-stats)
